@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Dart, Flutter & Firebase/GCP**
 
-- 💼 I'm working at [HavocMC](https://havocmc.net/)
-
 - 💬 Ask me about **Java, Spigot & Paper**
 
 - 📫 How to reach me **caden2k3@gmail.com**
