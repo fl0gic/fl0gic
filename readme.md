@@ -1,4 +1,4 @@
-<h1 align="center">👋 world! I'm Caden</h1>
+<h1 align="center">👋 Hello world! I'm Caden</h1>
 <h3 align="center">A student developer and aspiring aerospace engineer.</h3>
 
 - 🔭 I’m currently working on my [smooth-chunks Minecraft mod](https://github.com/fl0gic/smooth-chunks)
