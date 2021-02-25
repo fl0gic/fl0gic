@@ -7,4 +7,4 @@
 
 - ⚡ Fun fact **I graduate high-school this year!**
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=fl0gic&show_icons=true&theme=dark&title_color=56a2fa&text_color=89929d&bg_color=0d1118&hide_border=true&locale=en&layout=compact" alt="Top Languages"/> <img src="https://github-readme-stats.vercel.app/api?username=fl0gic&show_icons=true&theme=dark&title_color=56a2fa&text_color=89929d&bg_color=0d1118&hide_border=true&locale=en" alt="GitHub Stats" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=fl0gic&show_icons=true&theme=dark&title_color=56a2fa&text_color=89929d&bg_color=0d1118&hide_border=true&locale=en&layout=compact" alt="Top Languages"/> <img src="https://github-readme-stats.vercel.app/api?username=fl0gic&show_icons=true&theme=dark&title_color=56a2fa&text_color=89929d&bg_color=0d1118&hide_border=true&locale=en&hide_rank=true&custom_title=My%20Stats&include_private=true" alt="GitHub Stats" /></p>
